@@ -1,0 +1,7 @@
+D:\Git demo\git-practice\ralational_operators\bin\Debug\ralational_operators.exe.config
+D:\Git demo\git-practice\ralational_operators\bin\Debug\ralational_operators.exe
+D:\Git demo\git-practice\ralational_operators\bin\Debug\ralational_operators.pdb
+D:\Git demo\git-practice\ralational_operators\obj\Debug\ralational_operators.csproj.AssemblyReference.cache
+D:\Git demo\git-practice\ralational_operators\obj\Debug\ralational_operators.csproj.CoreCompileInputs.cache
+D:\Git demo\git-practice\ralational_operators\obj\Debug\ralational_operators.exe
+D:\Git demo\git-practice\ralational_operators\obj\Debug\ralational_operators.pdb
